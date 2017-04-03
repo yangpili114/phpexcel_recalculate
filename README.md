@@ -22,7 +22,7 @@ php composer.phar install
 php run.php
 ```
 
-## ref
+## Reference
 
 - [PHPExcel won't recalculate [duplicate]](http://stackoverflow.com/questions/16009822/phpexcel-wont-recalculate)
 - [getCalculatedValue() doesn't work with readfilter](https://github.com/PHPOffice/PHPExcel/issues/1034)
