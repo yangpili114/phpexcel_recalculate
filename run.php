@@ -3,8 +3,6 @@
 require './vendor/autoload.php';
 $file = './tmp/test.xlsx';
 
-PHPExcel_Calculation::getInstance()->setCalculationCacheEnabled(false);
-
 try {
  $objPHPExcel = PHPExcel_IOFactory::load($file);
 } catch(Exception $e) {
