@@ -1,0 +1,17 @@
+Filepath: ./tmp/DY1.xls
+I15: 100
+PHP Fatal error:  Uncaught exception 'PHPExcel_Calculation_Exception' with message '輸入頁!I47 -> 輸入頁!I24 -> 輸入頁!AV15 -> 輸入頁!AU15 -> 輸入頁!AS15 -> 輸入頁!AR15 -> 輸入頁!X7 -> 年齡!B6 -> 年齡!C5 -> 年齡!D2 -> 年齡!D3 -> Formula Error: An unexpected error occured' in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Cell.php:293
+Stack trace:
+#0 /Users/ming/projects/phpexcel_recalculate/run.php(54): PHPExcel_Cell->getCalculatedValue()
+#1 {main}
+  thrown in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Cell.php on line 293
+
+Fatal error: Uncaught exception 'PHPExcel_Calculation_Exception' with message '輸入頁!I47 -> 輸入頁!I24 -> 輸入頁!AV15 -> 輸入頁!AU15 -> 輸入頁!AS15 -> 輸入頁!AR15 -> 輸入頁!X7 -> 年齡!B6 -> 年齡!C5 -> 年齡!D2 -> 年齡!D3 -> Formula Error: An unexpected error occured' in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Cell.php:293
+Stack trace:
+#0 /Users/ming/projects/phpexcel_recalculate/run.php(54): PHPExcel_Cell->getCalculatedValue()
+#1 {main}
+  thrown in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Cell.php on line 293
+
+real	0m15.483s
+user	0m14.194s
+sys	0m0.557s

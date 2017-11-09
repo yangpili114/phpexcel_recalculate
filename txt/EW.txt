@@ -1,0 +1,62 @@
+Filepath: ./tmp/EW.xls
+J8: 100
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+H16: 0
+
+============================
+J8: 200
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+H16: 0
+
+============================
+J8: 300
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+PHP Notice:  Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+
+Notice: Undefined offset: 0 in /Users/ming/projects/phpexcel_recalculate/vendor/phpoffice/phpexcel/Classes/PHPExcel/Calculation/Database.php on line 347
+H16: 0
+
+============================
+
+real	0m19.438s
+user	0m17.230s
+sys	0m0.731s
